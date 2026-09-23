@@ -2,7 +2,7 @@
 
 AI Application student with interests in machine learning, computer vision, image analysis, and interactive system development.
 
-目前就讀人工智慧應用相關科系，學習與實作方向包含機器學習、深度學習、電腦視覺、影像分析與互動系統開發。
+目前就讀人工智慧應用學系，學習與實作方向包含機器學習、深度學習、電腦視覺、影像分析與互動系統開發。
 
 ## Areas of Interest
 
